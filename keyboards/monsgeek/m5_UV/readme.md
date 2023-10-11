@@ -1,18 +1,14 @@
-# m5
+# m5_UV
 
 A customizable 100% keyboard.
 
-* Keyboard Maintainer: [jonylee@hfd](https://github.com/jonylee1986)
+* Keyboard Maintainer: [uv777bk](https://github.com/uv777bk)
 * Hardware Supported: m5
 * Hardware Availability: [monsgeek](https://www.monsgeek.com/)
 
-Make example for this keyboard (after setting up your build environment):
+Compile example for this keyboard using QMK MSYS:
 
-    make monsgeek/m5:default
-
-Flashing example for this keyboard:
-
-    make monsgeek/m5:default:flash
+    qmk compile -kb monsgeek/m5_UV -km via
 
 ## Bootloader
 **Reset Key**: Hold down the key located at *K000*, which programmed as *Esc* while plugging in the keyboard.
