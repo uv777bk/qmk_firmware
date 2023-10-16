@@ -20,9 +20,10 @@
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 /* LED Indicators */
-#define LED_NUM_LOCK_PIN A15
-#define LED_CAPS_LOCK_PIN C10
-#define LED_WIN_LOCK_PIN C11
+// #define LED_NUM_LOCK_PIN A15
+// #define LED_CAPS_LOCK_PIN C10
+// #define LED_SCROLL_LOCK_PIN C11
+// #define LED_WIN_LOCK_PIN C11
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
