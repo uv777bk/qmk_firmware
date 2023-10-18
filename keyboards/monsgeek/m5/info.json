@@ -26,7 +26,7 @@
     },
     "diode_direction": "ROW2COL",
     "indicators": {
-        "num_lock":"A15",
+        "num_lock": "A15",
         "caps_lock": "C10",
         "scroll_lock": "C11"
     },
